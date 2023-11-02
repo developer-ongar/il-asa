@@ -35,7 +35,7 @@ struct WebView: UIViewRepresentable {
 struct ContentView: View {
     var body: some View {
         NavigationView {
-            WebView(urlString: "https://il-asa.netlify.app")
+            WebView(urlString: "https://il-asa.online")
                 
         }
     }
